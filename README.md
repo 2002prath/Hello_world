@@ -1,3 +1,6 @@
 # Hello_world
-This code is showing hello world program in java language.
+This is my first code which i am pushig on github.
+
+<br> 
+
 Creator-- Pratham mishra
